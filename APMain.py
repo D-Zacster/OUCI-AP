@@ -20,7 +20,7 @@ Features:
 - Data
     - Student Info:
         - Name
-        - Addredd
+        - Address
         - Contact Info
         - DOB
         - Track Attendance
