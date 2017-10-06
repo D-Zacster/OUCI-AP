@@ -9,7 +9,7 @@ Features:
     - Registration
         - Include "Semester Registration" that includes all of a semester
     - Tuition
-    - Program Speific Payments
+    - Program Specific Payments
         - i.e. Transportation for Afterschool
     - One-time payments
 - Program Enrolment
@@ -20,7 +20,7 @@ Features:
 - Data
     - Student Info:
         - Name
-        - Addredd
+        - Address
         - Contact Info
         - DOB
         - Track Attendance
