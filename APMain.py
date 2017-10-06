@@ -20,7 +20,7 @@ Features:
 - Data
     - Student Info:
         - Name
-        - Addredd
+        - Address
         - Contact Info
         - DOB
         - Track Attendance
@@ -29,8 +29,8 @@ Features:
             - School name
             - Grade
         - Do not delete student info when they leave
-- Mailing
-    - Email list with tagged categories
-    - Automatic Emails about payment and late fees
+    - Mailing
+        - Email list with tagged categories
+        - Automatic Emails about payment and late fees
 """
 

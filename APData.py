@@ -30,7 +30,6 @@ def getEmailData(recipient):
     # Iterate through emails and gather pertinent information
     for i in range(0,len(messages)):
         try:
-            #
             if str(messages[i].Sender) == "ouci@ou.edu":
                 time = str(messages[i].CreationTime)
                 cat = "Payment"
